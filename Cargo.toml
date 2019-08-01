@@ -1,0 +1,12 @@
+[package]
+name = "vigilant-umbrella"
+version = "0.1.0"
+authors = ["Red Carpet <redcarpetoaxaca@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fluent = "0.6.0"
+fluent-bundle = "0.7.0"
+unic-langid = "0.4.1"
